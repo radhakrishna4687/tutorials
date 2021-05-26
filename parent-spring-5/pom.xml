@@ -29,8 +29,8 @@
     </dependencies>
 
     <properties>
-        <spring.version>5.1.4.RELEASE</spring.version>
-		<spring-security.version>5.1.4.RELEASE</spring-security.version>
+        <spring.version>5.2.15.RELEASE</spring.version>
+		<spring-security.version>5.5.0</spring-security.version>
     </properties>
 
 </project>
