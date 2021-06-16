@@ -814,7 +814,7 @@
     <properties>
         <suanshu.version>4.0.0</suanshu.version>
         <snakeyaml.version>1.21</snakeyaml.version>
-        <googleclient.version>1.23.0</googleclient.version>
+        <googleclient.version>1.24.1</googleclient.version>
         <crdt.version>0.1.0</crdt.version>
         <multiverse.version>0.7.0</multiverse.version>
         <cglib.version>3.2.7</cglib.version>
@@ -856,9 +856,9 @@
         <cache.version>1.0.0</cache.version>
         <hazelcast.version>3.10.2</hazelcast.version>
         <caffeine.version>2.5.5</caffeine.version>
-        <google-api.version>1.23.0</google-api.version>
+        <google-api.version>1.24.1</google-api.version>
         <google-sheets.version>v4-rev493-1.21.0</google-sheets.version>
-        <kafka.version>2.0.0</kafka.version>
+        <kafka.version>2.1.1</kafka.version>
         <smooks.version>1.7.0</smooks.version>
         <docker.version>3.0.14</docker.version>
         <infinispan.version>9.1.5.Final</infinispan.version>
@@ -893,7 +893,7 @@
         <jdeferred.version>1.2.6</jdeferred.version>
         <functionaljava.version>4.8.1</functionaljava.version>
         <jgrapht.version>1.0.1</jgrapht.version>
-        <docx4j.version>3.3.5</docx4j.version>
+        <docx4j.version>6.0.0</docx4j.version>
         <jaxb-api.version>2.1</jaxb-api.version>
         <bouncycastle.version>1.58</bouncycastle.version>
         <jersey.version>1.19.4</jersey.version>
