@@ -854,7 +854,7 @@
         <protonpack.version>1.15</protonpack.version>
         <unit-ri.version>1.0.3</unit-ri.version>
         <cache.version>1.0.0</cache.version>
-        <hazelcast.version>3.10.2</hazelcast.version>
+        <hazelcast.version>3.12.11</hazelcast.version>
         <caffeine.version>2.5.5</caffeine.version>
         <google-api.version>1.23.0</google-api.version>
         <google-sheets.version>v4-rev493-1.21.0</google-sheets.version>
@@ -862,7 +862,7 @@
         <smooks.version>1.7.0</smooks.version>
         <docker.version>3.0.14</docker.version>
         <infinispan.version>9.1.5.Final</infinispan.version>
-        <opencsv.version>4.1</opencsv.version>
+        <opencsv.version>5.0</opencsv.version>
         <unirest.version>1.4.9</unirest.version>
         <jctools.version>2.1.2</jctools.version>
         <commons-codec-version>1.10.L001</commons-codec-version>
@@ -879,7 +879,7 @@
         <datanucleus-xml.version>5.0.0-release</datanucleus-xml.version>
         <datanucleus-jdo-query.version>5.0.2</datanucleus-jdo-query.version>
         <chronicle.version>3.6.4</chronicle.version>
-        <spring.version>4.3.8.RELEASE</spring.version>
+        <spring.version>4.3.14.RELEASE</spring.version>
         <spring-mock-mvc.version>3.0.3</spring-mock-mvc.version>
         <HikariCP.version>2.6.3</HikariCP.version>
         <quartz.version>2.3.0</quartz.version>
@@ -893,7 +893,7 @@
         <jdeferred.version>1.2.6</jdeferred.version>
         <functionaljava.version>4.8.1</functionaljava.version>
         <jgrapht.version>1.0.1</jgrapht.version>
-        <docx4j.version>3.3.5</docx4j.version>
+        <docx4j.version>6.0.0</docx4j.version>
         <jaxb-api.version>2.1</jaxb-api.version>
         <bouncycastle.version>1.58</bouncycastle.version>
         <jersey.version>1.19.4</jersey.version>
@@ -904,7 +904,7 @@
         <derive4j.version>1.1.0</derive4j.version>
         <mockftpserver.version>2.7.1</mockftpserver.version>
         <commons-net.version>3.6</commons-net.version>
-        <reflections.version>0.9.11</reflections.version>
+        <reflections.version>0.9.12</reflections.version>
 
     </properties>
 
