@@ -178,7 +178,7 @@
         <commons-math3.version>3.6.1</commons-math3.version>
         <commons-collections4.version>4.1</commons-collections4.version>
         <collections-generic.version>4.01</collections-generic.version>
-        <commons-codec.version>1.10</commons-codec.version>
+        <commons-codec.version>1.13</commons-codec.version>
         <vavr.version>0.9.0</vavr.version>
         <protonpack.version>1.13</protonpack.version>
         <joda.version>2.10</joda.version>
