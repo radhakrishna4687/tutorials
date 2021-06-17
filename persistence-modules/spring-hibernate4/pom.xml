@@ -151,12 +151,12 @@
         <!-- Spring -->
         <org.springframework.version>4.3.4.RELEASE</org.springframework.version>
         <org.springframework.security.version>4.2.0.RELEASE</org.springframework.security.version>
-        <org.springframework.data.version>1.10.5.RELEASE</org.springframework.data.version>
+        <org.springframework.data.version>1.11.22.RELEASE</org.springframework.data.version>
 
         <!-- persistence -->
-        <hibernate.version>4.3.11.Final</hibernate.version>
+        <hibernate.version>5.2.0.Final</hibernate.version>
         <hibernate-envers.version>${hibernate.version}</hibernate-envers.version>
-        <mysql-connector-java.version>5.1.40</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.16</mysql-connector-java.version>
         <tomcat-dbcp.version>8.5.8</tomcat-dbcp.version>
         <jta.version>1.1</jta.version>
         <hsqldb.version>2.3.4</hsqldb.version>
