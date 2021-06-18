@@ -296,8 +296,8 @@
 
     <properties>
         <!-- util -->
-        <guava.version>19.0</guava.version>
-        <commons-codec.version>1.10</commons-codec.version>
+        <guava.version>30.0-android</guava.version>
+        <commons-codec.version>1.13</commons-codec.version>
         <httpasyncclient.version>4.1.4</httpasyncclient.version>
         <!-- testing -->
         <wiremock.version>2.5.1</wiremock.version>
