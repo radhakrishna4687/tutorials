@@ -128,7 +128,7 @@
         <vraptor.version>4.2.0.Final</vraptor.version>
         <weld.version>2.1.2.Final</weld.version>
         <el.version>2.2</el.version>
-        <hibernate-validator.version>5.1.1.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.0.0.Final</hibernate-validator.version>
         <slf4j-log4j12.version>1.7.5</slf4j-log4j12.version>
         <vraptor-freemarker.version>4.1.0-RC3</vraptor-freemarker.version>
         <vraptor-hibernate.version>4.0.4</vraptor-hibernate.version>
