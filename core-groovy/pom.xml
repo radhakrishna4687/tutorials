@@ -113,8 +113,8 @@
 <!--         <groovy-all.version>2.4.13</groovy-all.version> -->
 <!--         <groovy-sql.version>2.4.13</groovy-sql.version> -->
         <groovy.version>2.5.6</groovy.version>
-        <groovy-all.version>2.5.6</groovy-all.version>
-        <groovy-sql.version>2.5.6</groovy-sql.version>
+        <groovy-all.version>3.0.7</groovy-all.version>
+        <groovy-sql.version>2.5.14</groovy-sql.version>
         <hsqldb.version>2.4.0</hsqldb.version>
         <spock-core.version>1.1-groovy-2.4</spock-core.version>
         <gmavenplus-plugin.version>1.6</gmavenplus-plugin.version>
