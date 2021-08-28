@@ -57,7 +57,7 @@
     </dependencies>
 
     <properties>
-        <curator.version>4.0.1</curator.version>
+        <curator.version>4.3.0</curator.version>
         <zookeeper.version>3.4.11</zookeeper.version>
         <!-- testing -->
         <assertj.version>3.6.1</assertj.version>
