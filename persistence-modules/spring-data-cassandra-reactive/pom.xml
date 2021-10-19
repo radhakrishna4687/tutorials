@@ -59,7 +59,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8
         </project.reporting.outputEncoding>
-        <spring-data-cassandra.version>2.1.2.RELEASE</spring-data-cassandra.version>
+        <spring-data-cassandra.version>3.2.6</spring-data-cassandra.version>
         <cassandra-unit-spring.version>3.11.2.0</cassandra-unit-spring.version>
     </properties>
 
