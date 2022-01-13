@@ -221,7 +221,7 @@
         <kotlin-maven-plugin.version>1.2.40</kotlin-maven-plugin.version>
         <spring-tx.version>5.2.0.M2</spring-tx.version>
         <spring-data-r2dbc.version>1.0.0.M2</spring-data-r2dbc.version>
-        <r2dbc-h2.version>0.8.0.M8</r2dbc-h2.version>
+        <r2dbc-h2.version>0.9.0.RELEASE</r2dbc-h2.version>
         <httpclient.version>4.5.2</httpclient.version>
         <h2.version>1.4.199</h2.version>
     </properties>
