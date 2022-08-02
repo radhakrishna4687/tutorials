@@ -24,7 +24,7 @@
     </dependencies>
 
     <properties>
-        <guava.version>23.0</guava.version>
+        <guava.version>23.6.1-jre</guava.version>
     </properties>
 
 </project>
