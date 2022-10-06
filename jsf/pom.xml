@@ -99,7 +99,7 @@
         <com.sun.faces.version>2.2.14</com.sun.faces.version>
         <javax.el.version>3.0.0</javax.el.version>
 
-        <primefaces.version>6.2</primefaces.version>
+        <primefaces.version>12.0.0</primefaces.version>
     </properties>
 
 </project>
