@@ -98,7 +98,7 @@
         <org.hamcrest.java-hamcrest.version>2.0.0.0</org.hamcrest.java-hamcrest.version>
         <commons-codec-version>1.10.L001</commons-codec-version>
         <xchart-version>3.5.2</xchart-version>
-        <commons-net.version>3.6</commons-net.version>
+        <commons-net.version>3.9.0</commons-net.version>
         <common-math3.version>3.6.1</common-math3.version>
     </properties>
 
