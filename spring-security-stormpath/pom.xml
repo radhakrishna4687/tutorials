@@ -62,7 +62,7 @@
     </build>
 	
     <properties>
-        <stormpath-spring.version>1.5.4</stormpath-spring.version>
+        <stormpath-spring.version>2.0.2-okta</stormpath-spring.version>
     </properties>
 
 </project>
