@@ -48,7 +48,7 @@
     <properties>
         <maven.compiler.source.version>11</maven.compiler.source.version>
         <maven.compiler.target.version>11</maven.compiler.target.version>
-        <guava.version>27.1-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
         <assertj.version>3.11.1</assertj.version>
     </properties>
 
