@@ -143,10 +143,10 @@
         <spring-data-jpa.version>2.1.6.RELEASE</spring-data-jpa.version>
         <tomcat-dbcp.version>9.0.0.M26</tomcat-dbcp.version>
         <jta.version>1.1</jta.version>
-        <querydsl.version>4.2.1</querydsl.version>
+        <querydsl.version>5.0.0</querydsl.version>
 
         <!-- util -->
-        <guava.version>21.0</guava.version>
+        <guava.version>32.0.0-android</guava.version>
         <assertj.version>3.8.0</assertj.version>
     </properties>
 
