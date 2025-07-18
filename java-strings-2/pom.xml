@@ -104,7 +104,7 @@
     </build>
 
     <properties>
-        <commons-lang3.version>3.8.1</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
         <icu4j.version>61.1</icu4j.version>
         <guava.version>28.0-jre</guava.version>
         <commons-text.version>1.4</commons-text.version>
