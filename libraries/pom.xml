@@ -862,7 +862,7 @@
         <smooks.version>1.7.0</smooks.version>
         <docker.version>3.0.14</docker.version>
         <infinispan.version>9.1.5.Final</infinispan.version>
-        <opencsv.version>4.1</opencsv.version>
+        <opencsv.version>5.12.0</opencsv.version>
         <unirest.version>1.4.9</unirest.version>
         <jctools.version>2.1.2</jctools.version>
         <commons-codec-version>1.10.L001</commons-codec-version>
@@ -879,7 +879,7 @@
         <datanucleus-xml.version>5.0.0-release</datanucleus-xml.version>
         <datanucleus-jdo-query.version>5.0.2</datanucleus-jdo-query.version>
         <chronicle.version>3.6.4</chronicle.version>
-        <spring.version>4.3.8.RELEASE</spring.version>
+        <spring.version>6.2.10</spring.version>
         <spring-mock-mvc.version>3.0.3</spring-mock-mvc.version>
         <HikariCP.version>2.6.3</HikariCP.version>
         <quartz.version>2.3.0</quartz.version>
