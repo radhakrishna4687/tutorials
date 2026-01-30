@@ -92,7 +92,7 @@
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
         <commons-chain.version>1.2</commons-chain.version>
         <commons-csv.version>1.4</commons-csv.version>
-        <assertj.version>3.6.2</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
         <commons.dbutils.version>1.6</commons.dbutils.version>
         <commons.collections.version>4.1</commons.collections.version>
         <org.hamcrest.java-hamcrest.version>2.0.0.0</org.hamcrest.java-hamcrest.version>
