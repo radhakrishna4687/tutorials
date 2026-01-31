@@ -821,7 +821,7 @@
         <jasypt.version>1.9.2</jasypt.version>
         <javatuples.version>1.2</javatuples.version>
         <javaassist.version>3.21.0-GA</javaassist.version>
-        <assertj.version>3.6.2</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <javers.version>3.1.0</javers.version>
         <httpclient.version>4.5.3</httpclient.version>
