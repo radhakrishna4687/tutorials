@@ -44,7 +44,7 @@
 	</dependencies>
 
 	<properties>
-		<assertj.version>3.8.0</assertj.version>
+		<assertj.version>3.27.7</assertj.version>
 		<rx.java2.version>2.2.2</rx.java2.version>
 		<awaitility.version>1.7.0</awaitility.version>
 		<rxrelay.version>2.0.0</rxrelay.version>
